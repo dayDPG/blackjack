@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Jugador {
     // variables privadas para que no se puedan modificar desde fuera
     private int dinero;

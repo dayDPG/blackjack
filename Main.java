@@ -184,5 +184,6 @@ public class Main {
             }
             else { System.out.println("Ingrese un valor correcto...");}
         }
+        scanner.close();
     }
 }

@@ -1,5 +1,3 @@
-
-
 public class Carta {
     
     private int valor;
